@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from .utils import load_model_file, load_class_names, predict_breed
+from utils import load_model_file, load_class_names, predict_breed
 
 # PAGE CONFIG
 st.set_page_config(
