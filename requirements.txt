@@ -1,7 +1,8 @@
-streamlit>=1.18
-tensorflow>=2.10
+streamlit
+tensorflow
 tensorflow-hub
 pillow
 numpy
 pandas
 scikit-learn
+setuptools
