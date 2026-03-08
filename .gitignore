@@ -1,0 +1,16 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+venv/
+env/
+
+# Ignore VSCode settings
+.vscode/
+
+# DO NOT ignore model files
+# (remove: model/*.h5)
