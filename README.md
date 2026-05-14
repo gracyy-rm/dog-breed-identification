@@ -25,7 +25,7 @@ This project includes:
 
 | Feature | Details |
 |----------|----------|
-| Framework | TensorFlow / Keras |
+| Framework | Pytorch |
 | Architecture | CNN / Transfer Learning |
 | Input Image Size | 224 × 224 |
 | Number of Classes | 120 Dog Breeds |
